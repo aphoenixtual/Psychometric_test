@@ -28,27 +28,18 @@ The project involves developing an android application that would help monitor a
 <table>
   <tr>
     <td><img src="Demo_look/Web_look_1.jpg" width="400"></td>
-    <td><img src="Demo_look/Web_look_1.jpg" width="400"></td>
+    <td><img src="Demo_look/Web_look_2.jpg" width="400"></td>
   <tr>
   <tr>
-    <td><img src="Demo_look/Web_look_1.jpg" width="400"></td>
-    <td><img src="Demo_look/Web_look_1.jpg" width="400"></td>
+    <td><img src="Demo_look/Web_look_3.jpg" width="400"></td>
+    <td><img src="Demo_look/Web_look_4.jpg" width="400"></td>
   <tr>
   <tr>
-    <td><img src="Demo_look/Web_look_1.jpg" width="400"></td>
-    <td><img src="Demo_look/Web_look_1.jpg" width="400"></td>
+    <td><img src="Demo_look/Web_look_5.jpg" width="400"></td>
+    <td><img src="Demo_look/Web_look_6.jpg" width="400"></td>
   <tr>
 </table>
 
-<td>
-<img src="Demo_look/Web_look_1.jpg" height="640" width="320">
-<img src="Demo_look/Web_look_2.jpg" height="640" width="320">
-<img src="Demo_look/Web_look_3.jpg" width = "100%">
-<img src="Demo_look/Web_look_4.jpg" width = "100%">
-<img src="Demo_look/Web_look_5.jpg" width = "100%">
-<img src="Demo_look/Web_look_6.jpg" width = "100%">
-<img src="Demo_look/Web_look_7.jpg" width = "100%">
-</td>
 Hope this may help in your project someway...!
 
 ### 
