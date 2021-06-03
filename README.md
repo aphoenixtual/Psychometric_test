@@ -25,11 +25,15 @@ The project involves developing an android application that would help monitor a
 ![image](https://user-images.githubusercontent.com/27979116/44275678-0a1dfe80-a263-11e8-9c2c-e69bc6e8f81f.png)
 
 ## Screenshots
-### Signup Page &emsp; &emsp; &emsp; Dashboard Questionaire &emsp; &emsp; Analysis &emsp; &emsp; &emsp; &emsp; Chatbot Interface                   
-![image](https://user-images.githubusercontent.com/27979116/44275373-31c09700-a262-11e8-9bff-bfb946791d36.png)
-![image](https://user-images.githubusercontent.com/27979116/44275445-646a8f80-a262-11e8-8987-211d2ce88404.png)
-![image](https://user-images.githubusercontent.com/27979116/44275308-fd4cdb00-a261-11e8-8d0f-21fd9c5293cf.png)
-![image](https://user-images.githubusercontent.com/27979116/44275476-72b8ab80-a262-11e8-9e88-0cf7b5c55910.png)
+<img src="Demo_look/Web_look_1.png" width = "100%">
+<img src="Demo_look/Web_look_2.png" width = "100%">
+<img src="Demo_look/Web_look_3.png" width = "100%">
+<img src="Demo_look/Web_look_4.png" width = "100%">
+<img src="Demo_look/Web_look_5.png" width = "100%">
+<img src="Demo_look/Web_look_6.png" width = "100%">
+<img src="Demo_look/Web_look_7.png" width = "100%">
+
+Hope this may help in your project someway...!
 
 
 
