@@ -42,11 +42,6 @@ The project involves developing an android application that would help monitor a
     <td><img src="Demo_look/Web_look_4.jpg" width="400"></td>
   <tr>
     
-    <tr>
-    <td>Analysis_Dispaly</td>
-    <td>Chat bot</td>
-    </tr>
-    
   <tr>
     <td><img src="Demo_look/Web_look_5.jpg" width="400"></td>
     <td><img src="Demo_look/Web_look_6.jpg" width="400"></td>
