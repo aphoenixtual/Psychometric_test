@@ -26,15 +26,13 @@ The project involves developing an android application that would help monitor a
 
 ## Screenshots
 <table>
-    <td>Login_Page</td>
-     <td>Sign_Up_Page</td>
+  
   
   <tr>
     <td><img src="Demo_look/Web_look_1.jpg" width="400"></td>
     <td><img src="Demo_look/Web_look_2.jpg" width="400"></td>
   </tr>
   
-    <td>Dashboard</td>
   
   <tr>
     <td><img src="Demo_look/Web_look_3.jpg" width="400"></td>
@@ -42,8 +40,6 @@ The project involves developing an android application that would help monitor a
   </tr>
     
    
-     <td>Analysis_Display</td>
-     <td>Chatbot</td>
   
   <tr>
     <td><img src="Demo_look/Web_look_5.jpg" width="400"></td>
