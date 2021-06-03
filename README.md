@@ -27,9 +27,10 @@ The project involves developing an android application that would help monitor a
 ## Screenshots
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    
+    <td>Login Page</td>
+     <td>SignUp Page</td>
+   
   </tr>
   
   <tr>
@@ -37,13 +38,23 @@ The project involves developing an android application that would help monitor a
     <td><img src="Demo_look/Web_look_2.jpg" width="400"></td>
   </tr>
   
+  <tr>
+    
+    <td>Dashboard</td>
+   
+  </tr>
   
   <tr>
     <td><img src="Demo_look/Web_look_3.jpg" width="400"></td>
     <td><img src="Demo_look/Web_look_4.jpg" width="400"></td>
   </tr>
     
+   <tr>
+    
+    <td>Analysis Display</td>
+    <td>Chatbot</td>
    
+  </tr>
   
   <tr>
     <td><img src="Demo_look/Web_look_5.jpg" width="400"></td>
