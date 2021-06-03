@@ -1,6 +1,6 @@
 # Neo-Health-Assistant-Chatbot
 
-Selected on the basis of our idea by the DIH (**Design & Innovation Hub**) Committee - IITBHU, we were provided a span of two months to complete the project.
+Selected on the basis of our idea by the DIH (**Design & Innovation Hub**), we were provided a span of two months to complete the project.
 The project involves developing an android application that would help monitor and tackle health issues such as depression in the college. It involves registering students, collecting their data in an appropriate efficient data storage system, assessing their condition through a set of questions based on phq-9 questionnaire, providing comparative analysis and also implementing a chat-bot(Neo) to further enrich the user experience.
 
 ## Technologies Involved:
