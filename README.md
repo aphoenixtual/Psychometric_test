@@ -26,7 +26,7 @@ The project involves developing an android application that would help monitor a
 
 ## Screenshots
 <img src="Demo_look/Web_look_1.jpg" height="640" width="320">
-<img src="Demo_look/Web_look_2.jpg" width = "100%">
+<img src="Demo_look/Web_look_2.jpg" height="640" width="320">
 <img src="Demo_look/Web_look_3.jpg" width = "100%">
 <img src="Demo_look/Web_look_4.jpg" width = "100%">
 <img src="Demo_look/Web_look_5.jpg" width = "100%">
