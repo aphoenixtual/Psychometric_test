@@ -26,7 +26,11 @@ The project involves developing an android application that would help monitor a
 
 ## Screenshots
 <table>
-  
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
   
   <tr>
     <td><img src="Demo_look/Web_look_1.jpg" width="400"></td>
