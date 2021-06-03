@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">First</string>
+    <string name="sampleQues">How often do you sleep well?</string>
+    <string name="option1">Rarely or None of the time</string>
+    <string name="option2">Some or little of the time</string>
+    <string name="option3">Occasionally or a moderate amount of time</string>
+    <string name="option4">Most or all of the time</string>
+    <string name="your_score_s">Your Score : %s</string>
+    <string name="branch_aggregate_score_s">Branch Aggregate Score : %s</string>
+    <string name="college_aggregate_score_s">College Aggregate Score : %s</string>
+    <string name="the_following_scores_are_percentage_signifying_the_degree_of_a_relaxed_healthy_mind">The following scores are percentage signifying the degree of a relaxed healthy mind</string>
+    <string name="analysis">Analysis</string>
+    <string name="proceed">Proceed</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="send">Send</string>
+    <string name="are_you_offline">Are you offline?</string>
+    <string name="to_api">To Api</string>
+</resources>

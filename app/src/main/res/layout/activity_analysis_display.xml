@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    android:background="@drawable/bg_gradient"
+    tools:context="rn97.first.AnalysisDisplay">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="210dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/analysis"
+            android:textColor="#fff"
+            android:textAlignment="center"
+            android:textSize="30sp"/>
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="167dp"
+            android:layout_marginTop="30dp"
+            android:layout_weight="1"
+            android:text="@string/the_following_scores_are_percentage_signifying_the_degree_of_a_relaxed_healthy_mind"
+            android:textAlignment="center"
+            android:textColor="#fff"
+            android:textSize="25sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="70dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="60dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:text="@string/your_score_s"
+            android:id="@+id/text_user_score"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#fff"
+            android:textSize="20sp"/>
+        <TextView
+            android:text="@string/branch_aggregate_score_s"
+            android:id="@+id/text_branch_avg_score"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#fff"
+            android:textSize="20sp"/>
+        <TextView
+            android:text="@string/college_aggregate_score_s"
+            android:id="@+id/text_avg_score"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#fff"
+            android:textSize="20sp"/>
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_gradient"
+        android:onClick="toApi"
+        android:text="@string/proceed"
+        android:textAlignment="center"
+        android:textColor="#fff" />
+
+</LinearLayout>

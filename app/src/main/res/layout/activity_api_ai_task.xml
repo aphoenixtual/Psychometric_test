@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:background="@drawable/bg_gradient">
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:columnCount="6"
+        android:layout_weight="0.01">
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_edit_text"
+            android:textSize="24sp"
+            android:layout_margin="8dp"
+            android:padding="8dp"
+            android:textColor="#fff"
+            android:textColorHint="#fff"
+            android:layout_row="0"
+            android:layout_gravity="fill_horizontal"
+            android:layout_columnSpan="4"
+            android:hint="@string/enter_message"
+            android:id="@+id/Message"
+            />
+
+        <Button
+            android:layout_gravity="end"
+            android:textSize="24sp"
+            android:layout_margin="8dp"
+            android:padding="8dp"
+            android:id="@+id/sendButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="0"
+            android:layout_column="5"
+            android:layout_columnSpan="1"
+            android:background="@drawable/bg_edit_text"
+            android:onClick="sendButtonOnClick"
+            android:textColor="#fff"
+            android:text="@string/send" />
+    </GridLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:id="@+id/textBox">
+
+            <TextView
+                android:id="@+id/queryTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:background="@drawable/bg_edit_text"
+                android:fontFamily="@font/montserrat"
+                android:padding="4dp" />
+
+            <TextView
+                android:id="@+id/resultTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:background="@drawable/bg_edit_text"
+                android:fontFamily="@font/montserrat"
+                android:padding="4dp" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
