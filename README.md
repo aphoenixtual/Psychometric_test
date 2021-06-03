@@ -25,7 +25,7 @@ The project involves developing an android application that would help monitor a
 ![image](https://user-images.githubusercontent.com/27979116/44275678-0a1dfe80-a263-11e8-9c2c-e69bc6e8f81f.png)
 
 ## Screenshots
-<td> <img src=""Demo_look/Web_look_1.jpg" width=270 height=480></td>
+<td> <img src=""Demo_look/Web_look_1.jpg" width="270" height="480">
 <img src="Demo_look/Web_look_1.jpg" height="640" width="320">
 <img src="Demo_look/Web_look_2.jpg" height="640" width="320">
 <img src="Demo_look/Web_look_3.jpg" width = "100%">
@@ -33,7 +33,7 @@ The project involves developing an android application that would help monitor a
 <img src="Demo_look/Web_look_5.jpg" width = "100%">
 <img src="Demo_look/Web_look_6.jpg" width = "100%">
 <img src="Demo_look/Web_look_7.jpg" width = "100%">
-
+</td>
 Hope this may help in your project someway...!
 
 
