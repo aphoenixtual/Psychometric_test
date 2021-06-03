@@ -27,9 +27,10 @@ The project involves developing an android application that would help monitor a
 ## Screenshots
 <table>
   <tr>
-    <td>Login Page</td>
-     <td>Sign Up Page</td>
+    <td>Login_Page</td>
+     <td>Sign_Up_Page</td>
   </tr>
+  
   <tr>
     <td><img src="Demo_look/Web_look_1.jpg" width="400"></td>
     <td><img src="Demo_look/Web_look_2.jpg" width="400"></td>
