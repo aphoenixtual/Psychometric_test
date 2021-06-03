@@ -39,7 +39,7 @@ The project involves developing an android application that would help monitor a
   <tr>
     <td><img src="Demo_look/Web_look_3.jpg" width="400"></td>
     <td><img src="Demo_look/Web_look_4.jpg" width="400"></td>
-  <tr>
+  </tr>
     
    
      <td>Analysis_Display</td>
