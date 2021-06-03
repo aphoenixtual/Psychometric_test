@@ -28,9 +28,9 @@ The project involves developing an android application that would help monitor a
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>Login Page</td>
+     <td>SingUp Page</td>
+     <td>Dashboard</td>
   </tr>
   <tr>
     <td><img src="Demo_look/Web_look_1.jpg" width=270 height=480></td>
@@ -43,20 +43,16 @@ The project involves developing an android application that would help monitor a
 <table>
   
   <tr>
-    <td><img src="Demo_look/Web_look_1.jpg" width="400"></td>
-    <td><img src="Demo_look/Web_look_2.jpg" width="400"></td>
+    <td>Dashboard</td>
+     <td>Analysis Display</td>
+     <td>Chatbot</td>
+  </tr>
+  <tr>
+    <td><img src="Demo_look/Web_look_4.jpg" width=270 height=480></td>
+    <td><img src="Demo_look/Web_look_5.jpg" width=270 height=480></td>
+    <td><img src="Demo_look/Web_look_7.jpg" width=270 height=480></td>
   </tr>
   
-  <tr>
-    <td><img src="Demo_look/Web_look_3.jpg" width="400"></td>
-    <td><img src="Demo_look/Web_look_4.jpg" width="400"></td>
-  </tr>
-    
-  
-  <tr>
-    <td><img src="Demo_look/Web_look_5.jpg" width="400"></td>
-    <td><img src="Demo_look/Web_look_6.jpg" width="400"></td>
-  </tr>
   
 </table>
 
