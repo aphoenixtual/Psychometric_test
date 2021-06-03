@@ -25,6 +25,21 @@ The project involves developing an android application that would help monitor a
 ![image](https://user-images.githubusercontent.com/27979116/44275678-0a1dfe80-a263-11e8-9c2c-e69bc6e8f81f.png)
 
 ## Screenshots
+
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="Demo_look/Web_look_1.jpg" width=270 height=480></td>
+    <td><img src="Demo_look/Web_look_2.jpg" width=270 height=480></td>
+    <td><img src="Demo_look/Web_look_3.jpg" width=270 height=480></td>
+  </tr>
+ </table>
+
+
 <table>
   
   <tr>
